@@ -1,1 +1,53 @@
-﻿
+﻿.main {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.content-cases {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
+}
+h2 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bottom-border {
+    width: 50px;
+    height: 3px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+.information-text {
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+.information-text-low {
+    font-size: 10px;
+}
+.information-text-last {
+    margin-bottom: 30px;
+}
+.language {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-template-columns: auto auto auto;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.point {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
+.painted-point {
+    background-color: #ffffff;
+}
+.non-painted-point {
+    background-color: #dcd6d646;
+}

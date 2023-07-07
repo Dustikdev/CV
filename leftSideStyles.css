@@ -1,0 +1,21 @@
+﻿.left-case {
+    background-color: #2c323e;
+    width: 200px;
+    height: 700px;
+    color: #ffffff;
+}
+.left-case-content {
+    width: 140px;
+    margin: 30px;
+}
+.left-image {
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    overflow: hidden
+}
+.bottom-border-left {
+    background-color: white;
+}

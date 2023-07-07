@@ -1,0 +1,14 @@
+﻿.right-case {
+    background-color: #ffffff;
+    width: 400px;
+    height: 700px;
+    color: #434141;
+}
+.right-case-content {
+    width: 340px;
+    margin: 30px;
+}
+
+.bottom-border-right {
+    background-color: #434141;
+}
