@@ -32,22 +32,11 @@ h2 {
 .information-text-last {
     margin-bottom: 30px;
 }
-.language {
+.point-items {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    grid-template-columns: auto auto auto;
     font-size: 12px;
     margin-bottom: 10px;
 }
-.point {
-    border-radius: 50%;
-    width: 10px;
-    height: 10px;
-}
-.painted-point {
-    background-color: #ffffff;
-}
-.non-painted-point {
-    background-color: #dcd6d646;
-}
+

@@ -19,3 +19,15 @@
 .bottom-border-left {
     background-color: white;
 }
+
+.left-side-point {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
+.left-side-painted-point {
+    background-color: #ffffff;
+}
+.left-side-non-painted-point {
+    background-color: #dcd6d646;
+}
