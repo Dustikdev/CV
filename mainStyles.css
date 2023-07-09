@@ -39,4 +39,9 @@ h2 {
     font-size: 12px;
     margin-bottom: 10px;
 }
+.point {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
 

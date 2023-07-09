@@ -12,18 +12,10 @@
     display: flex;
     justify-content: center;
     border-radius: 50%;
-    width: 120px;
-    height: 120px;
     overflow: hidden
 }
 .bottom-border-left {
     background-color: white;
-}
-
-.left-side-point {
-    border-radius: 50%;
-    width: 10px;
-    height: 10px;
 }
 .left-side-painted-point {
     background-color: #ffffff;
